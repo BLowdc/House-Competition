@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://wtdqkc0yohhd"]
+
+[ext_resource type="Texture2D" uid="uid://cnci5aja4t6el" path="res://House-Competition/sussy baka.jpg" id="1_ssxnu"]
+[ext_resource type="Script" path="res://House-Competition/SussyBaka.cs" id="2_ywemd"]
+
+[node name="SussyBaka" type="Sprite2D"]
+scale = Vector2(2.49854, 2.67358)
+texture = ExtResource("1_ssxnu")
+script = ExtResource("2_ywemd")
